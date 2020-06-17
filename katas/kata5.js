@@ -15,7 +15,7 @@ console.log(urlEncode("Lighthouse Labs"));
 console.log(urlEncode(" Lighthouse Labs "));
 console.log(urlEncode("blue is greener than purple for sure"));
 
-// How to use a replace function //
+//How to use a replace function 
 
 // const urlEncode = function (text){
 //   const regex = /\s/gi;
