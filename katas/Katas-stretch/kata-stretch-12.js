@@ -9,7 +9,7 @@ const organizeInstructors = function(instructors) {
         arrayOutput.push(secondObj.name)
       }
     }
-    newArrangement[newKey] = arrayOutput //console.log (obj)
+    newArrangement[newKey] = arrayOutput
   }
   return newArrangement
 };
