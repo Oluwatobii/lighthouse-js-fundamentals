@@ -1,5 +1,8 @@
 const blocksAway = function(directions) {
   // Put your solution here
+  for (i = 0; i < directions.length; i++){
+    
+  }
 };
 
 console.log(blocksAway(["right", 2, "left", 3, "left", 1]));
